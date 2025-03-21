@@ -77,3 +77,4 @@
 /Users/alimyataza/Workspace/BlazeApp/obj/Debug/net9.0/BlazeApp.pdb
 /Users/alimyataza/Workspace/BlazeApp/obj/Debug/net9.0/BlazeApp.genruntimeconfig.cache
 /Users/alimyataza/Workspace/BlazeApp/obj/Debug/net9.0/ref/BlazeApp.dll
+/Users/alimyataza/Workspace/BlazeApp/obj/Debug/net9.0/BlazeApp.sourcelink.json
